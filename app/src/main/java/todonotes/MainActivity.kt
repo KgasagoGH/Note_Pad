@@ -3,7 +3,6 @@ package main.java.todonotes
 import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
-import android.widget.LinearLayout
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -12,10 +11,9 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton
 import io.realm.Realm
 import io.realm.RealmResults
 import kotlinx.android.synthetic.main.activity_main.*
-import www.sanju.todonotes.Activity.AddNotesActivity
-import www.sanju.todonotes.Adapter.TodoAdapter
-import www.sanju.todonotes.Model.Todo
-import www.sanju.todonotes.R
+import main.java.todonotes.Activity.AddNotesActivity
+import main.java.todonotes.Adapter.TodoAdapter
+import main.java.todonotes.Model.Todo
 
 
 class MainActivity : AppCompatActivity() {

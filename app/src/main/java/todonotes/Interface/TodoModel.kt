@@ -1,7 +1,7 @@
-package www.sanju.todonotes.Interface
+package main.java.todonotes.Interface
 
 import io.realm.Realm
-import www.sanju.todonotes.Model.Todo
+import main.java.todonotes.Model.Todo
 
 
 class TodoModel :TodoInterface{

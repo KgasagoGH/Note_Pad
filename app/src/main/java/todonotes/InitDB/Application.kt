@@ -1,4 +1,4 @@
-package www.sanju.todonotes.InitDB
+package main.java.todonotes.InitDB
 
 import android.app.Application
 import io.realm.Realm

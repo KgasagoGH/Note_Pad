@@ -10,7 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="java.Activity.AddNotesActivity"></activity>
+        <activity android:name="main.java.todonotes.Activity.AddNotesActivity"></activity>
         <activity android:name="main.java.todonotes.MainActivity"
             android:exported="true">
             <intent-filter>

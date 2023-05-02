@@ -1,4 +1,4 @@
-package www.sanju.todonotes.Model
+package main.java.todonotes.Model
 
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey

@@ -1,4 +1,4 @@
-package www.sanju.todonotes.Activity
+package main.java.todonotes.Activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,10 +7,10 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 import io.realm.Realm
-import www.sanju.todonotes.Interface.TodoModel
-import www.sanju.todonotes.MainActivity
-import www.sanju.todonotes.Model.Todo
-import www.sanju.todonotes.R
+import main.java.todonotes.Interface.TodoModel
+import main.java.todonotes.MainActivity
+import main.java.todonotes.Model.Todo
+import main.java.todonotes.R
 
 class AddNotesActivity : AppCompatActivity() {
 

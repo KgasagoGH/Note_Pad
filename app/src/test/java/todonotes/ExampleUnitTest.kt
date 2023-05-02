@@ -1,4 +1,4 @@
-package www.sanju.todonotes
+package main.java.todonotes
 
 import org.junit.Test
 
